@@ -1,0 +1,11 @@
+.banana {
+    display: flex;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: black;
+    text-align: center; 
+    /* justify-content: center; */
+}
