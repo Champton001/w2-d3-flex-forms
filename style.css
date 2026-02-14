@@ -1,14 +1,17 @@
 .banana {
-    display: flex;
+  display: flex;
 }
 .box {
-    width: 100px;
-    height: 100px;
-    color: white;
-    background-color: black;
-    text-align: center; 
-    /* justify-content: center; */
+  width: 100px;
+  height: 100px;
+  color: white;
+  background-color: black;
+  text-align: center;
+  /* justify-content: center; */
 }
 .item {
-    color: blue;
+  color: blue;
+}
+.block-demo {
+  background-color: blue;
 }
