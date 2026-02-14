@@ -15,3 +15,30 @@
 .block-demo {
   background-color: blue;
 }
+
+.field {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.form {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 200px;
+}
+.col {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+#lname {
+    margin-bottom: 20px;
+}
+
+#email-help {
+    font-size: 12px;
+    color: grey;
+    margin: 0;
+}
